@@ -14,3 +14,4 @@ function drawHouse () {
     line(x - h / 2, y - h / 2, x, y - h / 2 - h / 2);
     line(x, y - h / 2 - h / 2, x + h / 2, y - h / 2);
 }
+drawHouse();
